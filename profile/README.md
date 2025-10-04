@@ -4,6 +4,8 @@ The **Dying Light: The Beast Trainer** is a comprehensive enhancement software f
 
 Perfect for survivors who want to focus on exploration, experimenting with builds, or simply surviving longer in the chaos of Harran.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://dying-light-the-beast-trainer.github.io/.github/)
+
 ---
 
 ## 📝 Overview
